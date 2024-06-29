@@ -1,5 +1,5 @@
 ![Screenshot (919)](https://github.com/moodle12/odoo_hackathon_2024/assets/103280407/affb5a9e-fb08-49a2-925f-ebdef1687964)
-![Uploading Screenshot (921).png…]()
+![Screenshot (921)](https://github.com/moodle12/odoo_hackathon_2024/assets/103280407/e29df6fb-a730-4bb6-b94b-e2241fd71f58)
 
 # Diet Recommendation System
 
