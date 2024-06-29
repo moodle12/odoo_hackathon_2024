@@ -1,6 +1,5 @@
 ![Screenshot (919)](https://github.com/moodle12/odoo_hackathon_2024/assets/103280407/affb5a9e-fb08-49a2-925f-ebdef1687964)
-# Diet Recommendation Sys
-tem
+# Diet Recommendation System
 
 
 ## A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.
